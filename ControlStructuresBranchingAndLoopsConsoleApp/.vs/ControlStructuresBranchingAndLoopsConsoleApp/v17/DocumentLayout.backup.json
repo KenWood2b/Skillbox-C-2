@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75162617-5791-40AD-9472-7D0396AC2A5A}|Exercise5ConsoleApp\\Exercise5ConsoleApp.csproj|d:\\c#\\controlstructuresbranchingandloopsconsoleapp\\exercise5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75162617-5791-40AD-9472-7D0396AC2A5A}|Exercise5ConsoleApp\\Exercise5ConsoleApp.csproj|solutionrelative:exercise5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F3883B-1EFA-42CF-95C8-A89BE38E0A82}|Exercise4ConsoleApp\\Exercise4ConsoleApp.csproj|d:\\c#\\controlstructuresbranchingandloopsconsoleapp\\exercise4consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F3883B-1EFA-42CF-95C8-A89BE38E0A82}|Exercise4ConsoleApp\\Exercise4ConsoleApp.csproj|solutionrelative:exercise4consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C285716D-3B62-4630-8C6A-015204E1F818}|Exercise3ConsoleApp\\Exercise3ConsoleApp.csproj|d:\\c#\\controlstructuresbranchingandloopsconsoleapp\\exercise3consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C285716D-3B62-4630-8C6A-015204E1F818}|Exercise3ConsoleApp\\Exercise3ConsoleApp.csproj|solutionrelative:exercise3consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4F7EEE-C4FB-44BB-9DE6-8DE550886BCE}|Exercise2ConsoleApp\\Exercise2ConsoleApp.csproj|d:\\c#\\controlstructuresbranchingandloopsconsoleapp\\exercise2consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4F7EEE-C4FB-44BB-9DE6-8DE550886BCE}|Exercise2ConsoleApp\\Exercise2ConsoleApp.csproj|solutionrelative:exercise2consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB141DA7-D0E7-4AED-B9CA-6CA400E937B9}|ControlStructuresBranchingAndLoopsConsoleApp\\ControlStructuresBranchingAndLoopsConsoleApp.csproj|d:\\c#\\controlstructuresbranchingandloopsconsoleapp\\controlstructuresbranchingandloopsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB141DA7-D0E7-4AED-B9CA-6CA400E937B9}|ControlStructuresBranchingAndLoopsConsoleApp\\ControlStructuresBranchingAndLoopsConsoleApp.csproj|solutionrelative:controlstructuresbranchingandloopsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\Exercise5ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise5ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\Exercise5ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Exercise5ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:01:30.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\ControlStructuresBranchingAndLoopsConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ControlStructuresBranchingAndLoopsConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\ControlStructuresBranchingAndLoopsConsoleApp\\Program.cs",
+              "RelativeToolTip": "ControlStructuresBranchingAndLoopsConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:09:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\Exercise2ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\Exercise2ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Exercise2ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:45:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\Exercise3ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise3ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\Exercise3ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Exercise3ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:53:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\Exercise4ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise4ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C#\\ControlStructuresBranchingAndLoopsConsoleApp\\Exercise4ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Exercise4ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:59:56.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
